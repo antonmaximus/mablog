@@ -33,16 +33,19 @@ When I tuned out of the world, I decided to stop following all the recommended r
 My Routines (In this order):
 
 Lower Body Day:
+
 1. **Squats (Low-bar).** 3 sets.  Max Reps of 8.
 2. **Deadlifts.** 3 sets. Max Reps of 5.
 3. *A whatever exercise*
 
 Upper Body Day:
+
 1. **Shoulder Press (Barbell, Standing).**  3 sets. Max Reps of 8.
 2. **Chest Press (Barbell, Flat Bench).** 3 sets. Max Reps of 10.
 4. *A whatever exercise*
 
 Calisthenic Day:
+
 1. Stretching Routine
 2. **Pull-up/Chin-up Medley.** 3 sets each.
 3. Dragon Flags. 3 sets.
